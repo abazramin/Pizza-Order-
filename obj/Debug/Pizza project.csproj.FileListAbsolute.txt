@@ -1,0 +1,10 @@
+C:\Users\abazr\source\repos\Pizza project\bin\Debug\Pizza project.exe.config
+C:\Users\abazr\source\repos\Pizza project\bin\Debug\Pizza project.exe
+C:\Users\abazr\source\repos\Pizza project\bin\Debug\Pizza project.pdb
+C:\Users\abazr\source\repos\Pizza project\obj\Debug\Pizza project.csproj.AssemblyReference.cache
+C:\Users\abazr\source\repos\Pizza project\obj\Debug\Pizza_project.Properties.Resources.resources
+C:\Users\abazr\source\repos\Pizza project\obj\Debug\Pizza project.csproj.GenerateResource.cache
+C:\Users\abazr\source\repos\Pizza project\obj\Debug\Pizza project.csproj.CoreCompileInputs.cache
+C:\Users\abazr\source\repos\Pizza project\obj\Debug\Pizza project.exe
+C:\Users\abazr\source\repos\Pizza project\obj\Debug\Pizza project.pdb
+C:\Users\abazr\source\repos\Pizza project\obj\Debug\Pizza_project.Pizza.resources
